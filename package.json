@@ -1,7 +1,7 @@
 {
     "name": "@qwertyvipul/react-paper",
     "version": "0.2.0",
-    "description": "React components on top of paper css (https://www.getpapercss.com/).",
+    "description": "React components on top of PaperCSS (https://www.getpapercss.com/).",
     "main": "lib/index.js",
     "module": "lib/index.esm.js",
     "types": "lib/index.d.ts",
